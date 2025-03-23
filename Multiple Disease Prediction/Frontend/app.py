@@ -1,8 +1,6 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 import pandas as pd
 from streamlit_option_menu import option_menu
-import pickle
 from PIL import Image
 import numpy as np
 from code.DiseaseModel import DiseaseModel
