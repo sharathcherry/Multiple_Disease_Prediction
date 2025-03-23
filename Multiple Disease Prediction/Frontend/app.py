@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from streamlit_option_menu import option_menu
+from streamlit-option-menu import option_menu
 from PIL import Image
 import numpy as np
 from code.DiseaseModel import DiseaseModel
